@@ -3,3 +3,4 @@ console.log('bar');
 console.log('baz');
 console.log('lorem');
 console.log('ipsum');
+console.log('dolor');
