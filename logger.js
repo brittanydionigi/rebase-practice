@@ -7,4 +7,6 @@ console.log('dolor');
 console.log('set');
 console.log('amet');
 console.log('consequetar');
+console.log('adipscing');
 console.log('nullum');
+console.log('vestibulum');
